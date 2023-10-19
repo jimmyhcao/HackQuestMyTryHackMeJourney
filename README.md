@@ -1,3 +1,21 @@
+
+
+</head>
+<body>
+    <div style="text-align: center;">
+        <h1>Work in Progress</h1>
+        <img src="https://i.imgur.com/Pucr9n7.png" alt="Work in Progress Image">
+    </div>
+</body>
+
+
+
+
+
+
+
+
+
 # HackQuest: My TryHackMe Journey
 
 TryHackMe Learning Paths Write-Ups
